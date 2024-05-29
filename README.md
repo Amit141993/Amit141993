@@ -23,7 +23,7 @@
 
 ### :mailbox: How to reach me :
 
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amit-singh-69aa42a3/)
-[![Gmail Badge](https://img.shields.io/badge/-kakbar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amitsingh1029@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Amit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amit-singh-69aa42a3/)
+[![Gmail Badge](https://img.shields.io/badge/-Amit-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amitsingh1029@gmail.com)
 
 ---
